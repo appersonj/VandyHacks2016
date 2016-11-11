@@ -2,7 +2,7 @@
 
 ### Data files for: 
 
-    Patient IdentificationPatient
-    Record Matching
+    Patient Identification
+    Patient Record Matching
     Patient Record De-duplication
 
